@@ -20,4 +20,7 @@ cd DataGone
 - npm 9+ / yarn 1.22+
 - Express.js
 - Linux / Windows / macOS
-- Android studio 
+- Android studio
+```
+## Demo
+https://frontend-9fkn.vercel.app
